@@ -6,5 +6,5 @@ The Odin Project HTML foundations project showcasing basic HTML structure and el
 ## Git
 Emphasis on using GIT to make a habbit of commiting early and often.
 
-# Check it out
+## Check it out
 https://pdejan.github.io/odin-recipes/
