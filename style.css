@@ -5,3 +5,19 @@
   height: 300px;
   width: auto;
 }
+h1,
+h3 {
+  color: #5479A6;
+}
+.button {
+  border: #5479A6 solid 2px;
+  border-radius: 4px;
+  width: 60px;
+  text-align: center;
+}
+.button a {
+  font-size: 16px;
+  color: #5479A6;
+}
+
+
